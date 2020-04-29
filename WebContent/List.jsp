@@ -7,6 +7,6 @@
 <title>List.jsp</title>
 </head>
 <body>
-	<h2>게시판</h2>
+	<h2>게시판dadada</h2>
 </body>
 </html>
