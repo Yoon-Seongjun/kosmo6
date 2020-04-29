@@ -7,6 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h2>Git 사용하기</h2>
+	<h2>Git 허브 수업</h2>
 </body>
 </html>
